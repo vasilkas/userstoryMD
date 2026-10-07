@@ -12,9 +12,8 @@ Vsaka naloga ima svojo mapo. **Odprite mapo naloge, ki jo trenutno delate, in pr
 
 | Mapa | Naloga | Čas | AI |
 |---|---|---|---|
-| [`naloga-1/`](naloga-1/) | Analiza zahtev — kaj mora razjasniti razvijalec | 20 min | ✗ brez |
 | [`naloga-2/`](naloga-2/) | Lov na dvoumnosti | 7 min | ✓ samo AI |
-| [`naloga-3/`](naloga-3/) | Iz zahteve v konvencije, iz konvencij v kodo | 12 min | ✓ samo AI |
+| [`naloga-3/`](naloga-3/) | Iz zahteve v konvencije, iz konvencij v kodo | 12 min | ✓ AI in človek |
 | [`naloga-4/`](naloga-4/) | Zahteva za dvojno občinstvo | 20 min | agent piše, vi presojate |
 
 ---
