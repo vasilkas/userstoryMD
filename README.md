@@ -1,6 +1,6 @@
 # USERSTORY.md
 
-Delovni repozitorij za delavnico **USERSTORY.md — ena zahteva, dva bralca** (OTS 2026).
+Delovni repozitorij za delavnico **USERSTORY.md — ena zahteva, dva bralca**.
 
 Projekt je ozek izsek prijavnega sistema za konferenco OTS: **izračun kotizacije ob prijavi.** Namenoma majhen — dovolj, da ga agent implementira v eni potezi, in dovolj, da se v njem skrijejo vse dvoumnosti, ki jih obravnavamo na delavnici.
 
